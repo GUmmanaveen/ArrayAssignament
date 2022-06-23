@@ -7,6 +7,7 @@ public class ArraySum {
 		int size=sc.nextInt();
 		int array[]=new int[size];
 		int sum=0;
+		
 		for(int i=0;i<size;i++)
 		{
 			array[i]=sc.nextInt();
